@@ -1,6 +1,10 @@
-A nav project created for Kinesis Audio company
+A nav project created for Kinesis Audio company with a mobile sliding component
 
 ![](Kinesis/Readme.png)
+
+## Mobile
+
+![](Kinesis/Mobile.PNG)
 
 ## Technology
 
