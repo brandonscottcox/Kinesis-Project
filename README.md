@@ -4,7 +4,7 @@ A nav project created for Kinesis Audio company with a mobile sliding component
 
 ## Mobile
 
-![](Kinesis/Mobile.PNG)
+![](Kinesis/Mobile_Edit.PNG)
 
 ## Technology
 
