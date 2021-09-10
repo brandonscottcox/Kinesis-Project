@@ -1,6 +1,6 @@
 A nav project created for Kinesis Audio company with a mobile sliding component
 
-![](Kinesis/Readme.png)
+![](Kinesis/Readme_Edit.png)
 
 ## Mobile
 
